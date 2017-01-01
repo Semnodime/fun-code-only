@@ -1,0 +1,7 @@
+Run this JS code in the console of your browser.
+If you evaluate _ it will tell you, _ is a function.
+Once you call the function e.g. like _(42) then you get the error message _ is not a function.
+If you evaluate _ again, its value is 42.
+
+It's supposed to look like a magic trick.
+Understanding what happens proves that you know the JS basic error cases that happened to occur when I started with JS programming.
